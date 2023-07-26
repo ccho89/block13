@@ -1,24 +1,24 @@
-const num1 = 50;   //Value 1
+const num1 = 50;   //Input Value 1
 const num2 = 51;
 const sum = num1 + num2;
 
-const num1 = 99;   //Value 2
+const num1 = 99;   //Input Value 2
 const num2 = -2;
 const sum = num1 + num2;
 
-const num1 = 0;    //Value 3
+const num1 = 0;    //Input Value 3
 const num2 = 101;
 const sum = num1 + num2;
 
-const num1 = 500;  //Value 4
+const num1 = 500;  //Input Value 4
 const num2 = -500;
 const sum = num1 + num2;
 
-const num1 = -1000; //Value 5
+const num1 = -1000; //Input Value 5
 const num2 = 0;
 const sum = num1 + num2;
 
-const num1 = -5;    //Value 6
+const num1 = -5;    //Input Value 6
 const num2 = 0;
 const sum = num1 + num2;
 
